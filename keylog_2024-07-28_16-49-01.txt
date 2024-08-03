@@ -1,0 +1,11 @@
+System Information:
+System: Windows
+Node Name: Meghana
+Release: 11
+Version: 10.0.22631
+Machine: AMD64
+Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+IP Address: 192.168.29.54
+User: Meghana
+
+(Key.cmd) (Key.down) (Key.down) (Key.down) (Key.enter) (Key.shift_r) H i (Key.space) m y n (Key.backspace) (Key.space) n a m e (Key.space) i s (Key.space) m e g h a n a . (Key.shift_r) (Key.enter) (Key.shift_r) N i c e (Key.space) t o (Key.space) m e e t (Key.space) y o t (Key.backspace) u (Key.shift_r) ! ! (Key.enter) (Key.shift_r) B y e (Key.shift_r) . . . . (Key.enter) (Key.shift_r) T a k e (Key.space) c a r e (Key.shift_r) ! (Key.enter) s e e (Key.space) y o (Key.backspace) a a a . . . (Key.enter) (Key.enter) (Key.enter) (Key.enter) (Key.enter) (Key.esc) 

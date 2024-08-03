@@ -1,0 +1,11 @@
+System Information:
+System: Windows
+Node Name: Meghana
+Release: 11
+Version: 10.0.22631
+Machine: AMD64
+Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+IP Address: 192.168.29.54
+User: Meghana
+
+; i j h g f d s z f r e t r y t d y u g h o p p y u k r t h f 8 6 e u d y j c m (Key.space) n \ ] [ (Key.enter) (Key.enter) (Key.enter) (Key.shift_r) (Key.shift_r) (Key.enter) (Key.enter) (Key.esc) 
